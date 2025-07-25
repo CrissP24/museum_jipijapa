@@ -1,22 +1,6 @@
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3172/3172911.png" alt="Spuseum Logo" width="200px" />
-</div>
 
----
 
-# Spuseum: 3D Museum Website
-
-Welcome to Spuseum, a 3D website dedicated to showcasing virtual museum tours using Three.js technology. This project features immersive animations and VR first-person simulations that allow users to explore a 3D world representing the museum's map.
- 
-<div align="center">
-  <img src="https://github.com/sprdgx/WebGifs/raw/main/Spuseum.gif" alt="Spuseum GIF 1" width="450px" style="display: inline-block; margin-right: 20px;" />
-  <img src="https://github.com/sprdgx/WebGifs/raw/main/Spuseum2.gif" alt="Spuseum GIF 2" width="450px" style="display: inline-block;" />
-</div>
-
-## 🌐 Live Demo
-
-Experience a live demo of Spuseum [here](https://spuseum.vercel.app).
-
+Museum 3D
 ## ✨ Features
 
 - 3D virtual museum tours
@@ -30,7 +14,7 @@ Experience a live demo of Spuseum [here](https://spuseum.vercel.app).
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sprdgx/Spuseum.git
+   git clone https://github.com/CrissP24/museum_jipijapa.git
 
 2. **Go to The Directory:**
    
